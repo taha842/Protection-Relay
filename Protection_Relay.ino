@@ -1,7 +1,5 @@
 /*******Over Current Relay (OCR)*******
    Author @ Engr. Muhammad Taha
-   Contact : +92-334-3992626
-   *******Projexel**********
 */
 
 #include <Wire.h>                         // Include Wire Library
