@@ -17,11 +17,8 @@
   to pin 13 on the board, the LED is optional.
 
 
-  Created by David Cuartielles
-  Modified 16 Jun 2009
-  By Tom Igoe
-
-  http://arduino.cc/en/Tutorial/AnalogInput
+  Created by Muhammad Taha
+  www.rex-es.com
 
 */
 #include <math.h>
